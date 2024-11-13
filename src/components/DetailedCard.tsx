@@ -1,8 +1,4 @@
-import Card from '@mui/material/Card';
-import CardHeader from '@mui/material/CardHeader';
-import CardContent from '@mui/material/CardContent';
-import Typography from '@mui/material/Typography';
-import { Divider } from '@mui/material';
+import { Card, CardContent, CardHeader, Divider, Typography } from '@mui/material';
 
 type DetailedCard = {
   name: string;
